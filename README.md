@@ -1,5 +1,8 @@
 # تشجير العراق — موقع الحملة
 
+🌐 **الموقع المنشور:** https://moaathdev.github.io/green-iraq/
+📦 **المستودع:** https://github.com/moaathdev/green-iraq
+
 موقع ويب عربي (RTL) كامل لحملة وطنية لدعم التشجير في العراق، مبني بـ HTML و CSS و JavaScript فقط بدون أي اعتماديات.
 
 ## الصفحات
